@@ -1,0 +1,6 @@
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.pdb

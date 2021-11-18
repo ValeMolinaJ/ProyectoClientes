@@ -1,0 +1,13 @@
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.exe.config
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.exe
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\bin\Debug\ClassLibraryClientes.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\bin\Debug\ClassLibraryClientes.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.Form1.resources
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.Properties.Resources.resources
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.GenerateResource.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.CopyComplete
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.exe
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\ProyectoClientes\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.pdb
