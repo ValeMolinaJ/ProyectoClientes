@@ -37,6 +37,10 @@ namespace ClassLibraryClientes
         {
             return data.listado("SELECT * FROM CLIENTES");
         }
+        public DataSet listadoClientes(string rut)
+        {
+            return data.listado("SELECT * FROM CLIENTES WHERE RUT= '" + rut + "'");
+        }
 
         public int guardar(clienteEntity cliente)
         {
