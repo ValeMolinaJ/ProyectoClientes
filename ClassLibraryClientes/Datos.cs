@@ -15,7 +15,7 @@ namespace ClassLibraryClientes
         public void Conectar()
         {
             if (conexion.State == System.Data.ConnectionState.Closed)
-                conexion.Open();
+                    conexion.Open();
         }
 
         public void Desconectar()
