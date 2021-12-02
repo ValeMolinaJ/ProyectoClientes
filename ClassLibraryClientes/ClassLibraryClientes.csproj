@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="claseParametro.cs" />
     <Compile Include="clientesEntity.cs" />
     <Compile Include="Datos.cs" />
     <Compile Include="precioEntity.cs" />

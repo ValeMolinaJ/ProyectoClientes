@@ -24,6 +24,7 @@ namespace ClassLibraryClientes
                 conexion.Close();
         }
 
+        //Ejecuta el método media una Query
         public DataSet listado(string query)
         {
             Conectar();
@@ -41,5 +42,33 @@ namespace ClassLibraryClientes
             Desconectar();
             return resultado;
         }
+
+        //Método que recibe un procedimiento de almacenado.
+        public DataSet listado(String NombreSP, List<claseParametro> lst)
+        {
+            DataSet dt = new DataSet();
+            SqlDataAdapter da;
+            try
+            {
+                Conectar();
+                da = new SqlDataAdapter(NombreSP, conexion);
+                da.SelectCommand.CommandType = CommandType.StoredProcedure;
+                if (lst != null)
+                {
+                    for (int i = 0; i < lst.Count; i++)
+                    {
+                        da.SelectCommand.Parameters.AddWithValue(lst[i].Nombre, lst[i].Valor);
+                    }
+                }
+                da.Fill(dt);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            Desconectar();
+            return dt;
+        }
     }
+
 }

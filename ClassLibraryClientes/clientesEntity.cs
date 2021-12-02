@@ -39,7 +39,19 @@ namespace ClassLibraryClientes
         }
         public DataSet listadoClientes(string rut)
         {
-            return data.listado("SELECT * FROM CLIENTES WHERE RUT= '" + rut + "'");
+            //return data.listado("SELECT * FROM CLIENTES WHERE RUT = '"+ rut +"'");
+            List<claseParametro> lst = new List<claseParametro>();
+            lst.Add(new claseParametro("@RUT", rut));
+            return data.listado("SP_BUSCAR_CLIENTE", lst);
+
+        }
+        public DataSet buscarNombre(string rut, string nombre)
+        {
+            List<claseParametro> lst = new List<claseParametro>();
+            lst.Add(new claseParametro("@RUT", rut));
+            lst.Add(new claseParametro("@NOMBRE", nombre));
+            return data.listado("SP_BUSCAR_CLIENTE_NOMBRE", lst);
+
         }
 
         public int guardar(clienteEntity cliente)
